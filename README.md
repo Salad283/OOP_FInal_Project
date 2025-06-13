@@ -5,3 +5,6 @@ Student Number:2902631350
 
 It is a Railway reservation system that is integrated to a Database that saves the client's data and  reservation.
 
+Features:
+1. Reserving a train seat through the console.
+2. 
